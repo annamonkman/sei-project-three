@@ -1,5 +1,5 @@
 {
-  "name": "sei-project3",
+  "name": "sei-project-three",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -12,6 +12,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx nodemon index.js",
     "seed": "node db/seeds.js",
 	  "dev": "nodemon",
     "start": "node index.js",
