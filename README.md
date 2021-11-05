@@ -26,7 +26,7 @@ Michael Henderson<br/>
 George Shaw<br/>
 
 ## <a name="project"></a>Link to Deployed Project
-**Link coming soon** </br>
+Project deployed to Netlify. Find it [here](https://festivalist.netlify.app/).
 </br>
 
 **Initialisation**
