@@ -44,7 +44,7 @@ Project deployed to Netlify. Find it [here](https://festivalist.netlify.app/).
 * MongoDB
 * Mongoose
 * Express
-* Express
+* Nodemon
 * BCrypt
 * Body-parser
 * jsonwebtoken
@@ -55,7 +55,6 @@ Project deployed to Netlify. Find it [here](https://festivalist.netlify.app/).
 * JavaScript
 * Axios
 * HTTP-proxy-middleware
-* Nodemon
 * SCSS
 * Semantic UI 
 * Mapbox
